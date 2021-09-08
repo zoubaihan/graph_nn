@@ -1,3 +1,4 @@
+# 包含边信息:Spectral Multigraph Networks for Discovering and Fusing Relationships in Molecules
 # Graph convolutional networks
 
 ## Overview
